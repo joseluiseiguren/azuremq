@@ -1,0 +1,1 @@
+Para pub/sub hay que crear topics y subscriptiones en azure

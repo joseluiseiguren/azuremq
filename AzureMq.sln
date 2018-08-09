@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FireAndForget", "FireAndForget", "{01859282-1F73-407C-AF91-09E6C3F4350B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireAndForget-Client", "FireAndForget-Client\FireAndForget-Client.csproj", "{5C623423-CA30-4D80-A7A9-2D4B2FFAAE58}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireAndForget-Server", "FireAndForget-Server\FireAndForget-Server.csproj", "{B5DB786C-C45A-4911-84AB-F09E3D6ED0BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8336BC65-8601-447B-B6FE-90B1A3F8A1A8}"
+	ProjectSection(SolutionItems) = preProject
+		Leeme.txt = Leeme.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

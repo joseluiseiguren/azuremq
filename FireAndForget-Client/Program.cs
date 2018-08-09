@@ -17,7 +17,7 @@ namespace FireAndForget_Client
             {
                 //connect to queue
                 queueClient = new QueueClient(ServiceBusConnectionString, QueueName);
-
+                
                 for (int i = 0; i < 100; i++)
                 {
                     //prepare message to send
