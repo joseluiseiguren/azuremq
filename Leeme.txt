@@ -1,1 +1,3 @@
 Para pub/sub hay que crear topics y subscriptiones en azure
+	Para crear Topics hay que usar subscripcion de azure premium
+		https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions
